@@ -12,3 +12,6 @@ Define the question, the metric for success, the context, experimental design ta
 Find and deal with outliers, anomalies, and missing data within the dataset.
 Perform  univariate and bivariate analysis.
 From your insights provide a conclusion and recommendation.
+
+file:///C:/Users/USER/Documents/Moringa%20School/R%20Programming/Fundermentals/IP/IP-notebook.html - HTML Link to r notebook
+
